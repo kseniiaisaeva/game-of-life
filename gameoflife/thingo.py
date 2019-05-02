@@ -1,6 +1,6 @@
 from .helpers import exists
 
-class Thingo:
+class Grid:
     def __init__(self):
         pass
 

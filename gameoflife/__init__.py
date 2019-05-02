@@ -1,1 +1,1 @@
-from .thingo import Thingo
+from .thingo import Grid
