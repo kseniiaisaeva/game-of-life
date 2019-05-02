@@ -2,7 +2,7 @@
 
 ## Getting started
 
-Rename all occurences of `mymod` to your module name
+Rename all occurences of `gameoflife` to your module name
 
 ## Testing
 
@@ -16,5 +16,5 @@ Run the tests
 
 Run pylint
 
-    pylint mymod
+    pylint gameoflife
 
